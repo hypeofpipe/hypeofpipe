@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<iframe src="https://giphy.com/embed/uvqkJvzmMJu5W" width="480" height="392" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-loop-goofy-uvqkJvzmMJu5W">via GIPHY</a></p>
+
+
 <!--
 **hypeofpipe/hypeofpipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
