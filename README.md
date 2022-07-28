@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/uvqkJvzmMJu5W" width="480" height="392" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-loop-goofy-uvqkJvzmMJu5W">via GIPHY</a></p>
+<image src="https://media3.giphy.com/media/uvqkJvzmMJu5W/giphy.gif" width="480" height="392" />
 
 
 <!--
